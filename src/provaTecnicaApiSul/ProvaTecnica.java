@@ -8,7 +8,7 @@ import java.io.FileReader;
 import java.util.Arrays;
 import java.util.List;
 
-public class Prova_Tecnica_Sul {
+public class ProvaTecnica {
     public static void main(String[] args) throws FileNotFoundException{
         
         JsonParser parser = new JsonParser();
